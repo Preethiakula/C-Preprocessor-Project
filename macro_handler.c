@@ -1,5 +1,4 @@
 #include "macro_handler.h"
-#include <ctype.h>
 #include <stdio.h>
 #include <string.h>
 
